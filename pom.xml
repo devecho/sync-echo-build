@@ -6,8 +6,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
-		<module>../sync-echo</module>
-		<module>../common-lang</module>
-		<module>../restful-services-framework</module>
+		<module>sync-echo</module>
+		<module>common-lang</module>
+		<module>restful-services-framework</module>
 	</modules>
 </project>
