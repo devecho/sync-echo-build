@@ -1,0 +1,9 @@
+[submodule "common-lang"]
+	path = common-lang
+	url = git@github.com:manzke/common-lang.git
+[submodule "restful-services-framework"]
+	path = restful-services-framework
+	url = git@github.com:manzke/restful-services-framework.git
+[submodule "sync-echo"]
+	path = sync-echo
+	url = git@github.com:devecho/sync-echo.git
