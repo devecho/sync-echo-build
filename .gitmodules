@@ -7,3 +7,6 @@
 [submodule "sync-echo"]
 	path = sync-echo
 	url = git://github.com/devecho/sync-echo.git
+[submodule "otp-java"]
+	path = otp-java
+	url = git://github.com/manzke/otp-java.git
