@@ -8,6 +8,7 @@
 	<modules>
 		<module>sync-echo</module>
 		<module>common-lang</module>
+		<module>otp-java</module>
 		<module>restful-services-framework</module>
 	</modules>
 </project>
